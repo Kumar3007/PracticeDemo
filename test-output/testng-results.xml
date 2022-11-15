@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5614" started-at="2022-11-09T15:54:15 IST" finished-at="2022-11-09T15:54:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5614" started-at="2022-11-09T15:54:15 IST" finished-at="2022-11-09T15:54:20 IST">
+      <class name="Practice.P_ReadAndWriteDataFromExcelSimultaneously">
+        <test-method status="PASS" signature="ExcelData()[pri:0, instance:Practice.P_ReadAndWriteDataFromExcelSimultaneously@631330c]" name="ExcelData" duration-ms="5379" started-at="2022-11-09T15:54:15 IST" finished-at="2022-11-09T15:54:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelData -->
+      </class> <!-- Practice.P_ReadAndWriteDataFromExcelSimultaneously -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
